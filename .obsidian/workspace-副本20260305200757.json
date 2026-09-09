@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "cb8d5f74097e04f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "327271011a7aa399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dfd33935836a593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/小傅哥/业务项目/AI MCP Gateway/学习笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "学习笔记"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "833acdbc8f7473d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "db39c12321a643dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fafdddb579d08574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "26f26175fd7e420a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "60331087164650f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5110321044922
+  },
+  "right": {
+    "id": "d647f6c06a07ba42",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b7f76211c8bce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b750b8d23d6e06ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "面试/面试准备.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "面试准备 的反向链接列表"
+            }
+          },
+          {
+            "id": "9ba2859fdb901c00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端和客户端/客户端.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "客户端 的出链列表"
+            }
+          },
+          {
+            "id": "1381b11686d2c5cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a4ad2034cff623f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目/小傅哥/业务项目/AI MCP Gateway/学习笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "学习笔记 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "0dfd33935836a593",
+  "lastOpenFiles": [
+    "项目/小傅哥/业务项目/AI MCP Gateway/attachments/Pasted image 20260304173108.png",
+    "项目/小傅哥/业务项目/AI MCP Gateway/attachments/Pasted image 20260304114045.png",
+    "项目/小傅哥/业务项目/AI MCP Gateway/attachments",
+    "面试/简历/2026/3/3.3.pdf",
+    "项目/小傅哥/业务项目/AI MCP Gateway/学习笔记.md",
+    "项目/小傅哥/业务项目/AI MCP Gateway",
+    "面试/简历/2026/3/15981160633_雷博文_后端开发.pdf",
+    "面试/简历/2026/3",
+    "面试/简历/2026/2/2026.2.10.pdf",
+    "面试/简历/2025/2025.10/简历2025.10.2.pdf",
+    "面试/简历/2025/2025.10/简历2025.7.13.pdf",
+    "面试/简历/2025/2025.10/2025.10.21.pdf",
+    "面试/简历/2025/2025.10/2025.10.9.pdf",
+    "ai 工具/提示词.md",
+    "面试/attachments/Pasted image 20250709170142.png",
+    "面试/attachments/Pasted image 20250709170735.png",
+    "面试/attachments/Pasted image 20250710120515.png",
+    "面试/attachments/Pasted image 20250710173410.png",
+    "面试/attachments/Pasted image 20250929205923.png",
+    "面试/attachments/Pasted image 20251029122638.png",
+    "面试/attachments/Pasted image 20251029122658.png",
+    "面试/attachments/Pasted image 20251029123437.png",
+    "面试/attachments/Pasted image 20250710161011.png",
+    "API 汇总/Java.md",
+    "API 汇总/Linux.md",
+    "API 汇总/总结.md",
+    "API 汇总/Git.md",
+    "API 汇总/Docker.md",
+    "数据库/MySQL 学习总结.md",
+    "python 笔记/Locust.md",
+    "python 笔记/Requests.md",
+    "python 笔记/Python 基础知识.md",
+    "python 笔记/Pytest.md",
+    "python 笔记/Allure.md",
+    "软实力/读书/书.md",
+    "软实力/人生经历/人生经历与教训.md",
+    "前端和客户端/前端/Tailwindcss/Tailwindcss 学习总结.md",
+    "前端和客户端/前端/Tailwindcss/transform-and-transition.md",
+    "前端和客户端/前端/Tailwindcss/typography.md",
+    "前端和客户端/前端/前端.md",
+    "总结.md",
+    "README-zh_CN.md",
+    "未命名.canvas",
+    "前端和客户端/前端/Tailwindcss/animation.md",
+    "前端和客户端/前端/Tailwindcss/REAME.md",
+    "前端和客户端/前端/Tailwindcss/grid.md",
+    "前端和客户端/前端/Tailwindcss/flex.md"
+  ]
+}
