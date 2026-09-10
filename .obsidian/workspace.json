@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16c25d89377b2d78",
+        "id": "e93dc64bdcef577d",
         "type": "tabs",
         "children": [
           {
-            "id": "78413eac2f6aba21",
+            "id": "9bd769e793d50a8e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "面试/简历/2026/9/7.pdf"
+                "file": "项目/小傅哥/业务项目/AI Agent 脚手架/NettySocketServer-通信方案总结.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "7"
+              "icon": "lucide-file",
+              "title": "NettySocketServer-通信方案总结"
             }
           }
         ]
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/简历/2026/9/7.pdf",
+                "file": "项目/小傅哥/业务项目/AI Agent 脚手架/NettySocketServer-通信方案总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,8 +171,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "78413eac2f6aba21",
+  "active": "9bd769e793d50a8e",
   "lastOpenFiles": [
+    "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/templates/analysis-template.md",
+    "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/templates",
+    "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/SKILL.md",
+    "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/README.md",
+    "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog",
+    "ai 工具/Skills/chatlog-to-blog.skill",
+    "中间件/消息队列/RocketMQ.md",
+    "README.md",
+    "面试/简历/2026/9/7.pdf",
+    "中间件/消息队列",
     "面试/简历/2026/9/9.pdf",
     "面试/简历/2026/9/15981160633_雷博文_后端开发(复制).pdf",
     "ai 工具/AI写项目提示词/Agent 写项目提示词.md",
@@ -189,24 +201,14 @@
     "ai 工具/AI写项目提示词/生成 business.md 的提示词.md",
     "ai 工具/Skills/interview-translator/SKILL.md",
     "ai 工具/Skills/interview-translator/project-interview-agent - SKILL.md",
-    "面试/简历/2026/9/7.pdf",
     "ai 工具/Skills/interview-translator",
     "ai 工具/Java 面试官系统提示词.md",
-    "面试/简历/2026/9/3c0a9f7311d845cdb960273e211aa6a2/78b7717fb2db4e5fac1d9abffee8e3b8.pdf",
-    "面试/简历/2026/9/3c0a9f7311d845cdb960273e211aa6a2",
-    "面试/简历/2026/9",
     "ai 工具/Java Interviewer System Prompt.md",
     "ai 工具/Skills/hexo-bookmark-taxonomy/SKILL.md",
-    "ai 工具/Skills/hexo-bookmark-taxonomy",
     "ai 工具/Skills/bookmark-organizer/使用.md",
     "ai 工具/Skills/bookmark-organizer/SKILL.md",
     "ai 工具/Skills/bookmark-organizer/references/output-template.md",
     "ai 工具/Skills/bookmark-organizer/references/decision-rubric.md",
-    "ai 工具/Skills/bookmark-organizer/references",
-    "ai 工具/Skills/bookmark-organizer/README.md",
-    "ai 工具/AI写项目提示词/生成 TASK-xxx.md 的提示词.md",
-    "项目/小傅哥/业务项目/AI Agent 脚手架/学习总结.md",
-    "项目/小傅哥/业务项目/AI Agent 脚手架/NettySocketServer-通信方案总结.md",
     "项目/小傅哥/业务项目/AI Agent 脚手架/attachments/Pasted image 20260718190744.png",
     "项目/小傅哥/业务项目/AI Agent 脚手架/attachments/Pasted image 20260718190659.png",
     "项目/小傅哥/业务项目/AI Agent 脚手架/attachments/Pasted image 20260718190519.png",
