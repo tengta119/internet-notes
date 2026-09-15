@@ -116,6 +116,3 @@ LIMIT
 ####   给定一个学生表 student_score（stu_id，subject_id，score），查询总分排名在5-10名的学生id及对应的总分
 
 #### 如何用 MySQL 实现一个可重入的锁？
-
-
-

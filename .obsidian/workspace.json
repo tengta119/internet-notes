@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e93dc64bdcef577d",
+        "id": "2eafd07eb7d97493",
         "type": "tabs",
         "children": [
           {
-            "id": "9bd769e793d50a8e",
+            "id": "d895d15a6925d25d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "项目/项目方案设计.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "项目方案设计"
             }
           }
         ]
@@ -144,6 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "数据库/MySQL 查缺补漏.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,12 +182,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bd769e793d50a8e",
+  "active": "d895d15a6925d25d",
   "lastOpenFiles": [
-    "ai 工具/Java 面试官系统提示词.md",
     "数据库/MySQL 查缺补漏.md",
-    "数据库/attachments/Pasted image 20260912154334.png",
+    "项目/项目方案设计.md",
     "数据库/MySQL 学习总结.md",
+    "ai 工具/Java 面试官系统提示词.md",
+    "数据库/attachments/Pasted image 20260912154334.png",
     "中间件/消息队列/RocketMQ.md",
     "日记/2026-9/2026-09-12-星期六.md",
     "日记/2026-9",
