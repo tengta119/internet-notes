@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2eafd07eb7d97493",
+        "id": "5ec0af5e73e28a4e",
         "type": "tabs",
         "children": [
           {
-            "id": "d895d15a6925d25d",
+            "id": "f1fbaa0a717a3761",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "项目/项目方案设计.md",
-                "mode": "source",
-                "source": false
+                "file": "面试/简历/2026/10/7.pdf"
               },
-              "icon": "lucide-file",
-              "title": "项目方案设计"
+              "icon": "lucide-file-text",
+              "title": "7"
             }
           }
         ]
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/MySQL 查缺补漏.md",
+                "file": "面试/简历/2026/10/7.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,12 +180,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d895d15a6925d25d",
+  "active": "fafdddb579d08574",
   "lastOpenFiles": [
-    "数据库/MySQL 查缺补漏.md",
-    "项目/项目方案设计.md",
-    "数据库/MySQL 学习总结.md",
+    "面试/简历/2026/10/5.pdf",
+    "面试/简历/2026/10/7.pdf",
+    "项目/二哥/PaiCLI/总结.md",
+    "面试/简历/2026/10",
+    "项目/二哥/PaiCLI/rag-codebase-retrieval.md",
+    "ai 工具/优化.md",
+    "ai 工具/提示词.md",
     "ai 工具/Java 面试官系统提示词.md",
+    "ai 工具/Java Interviewer System Prompt.md",
+    "项目/二哥/PaiCLI/ReAct-example.md",
+    "项目/二哥/PaiCLI/plan-mode.md",
+    "项目/二哥/PaiCLI/response-format-explained.md",
+    "项目/二哥/技术派学习总结",
+    "项目/二哥/技术派学习总结/技术派学习总结.md",
+    "数据库/MySQL 查缺补漏.md",
+    "数据库/MySQL 学习总结.md",
+    "项目/项目方案设计.md",
+    "项目/二哥/PaiCLI/attachments/Pasted image 20260921203522.png",
+    "项目/二哥/PaiCLI/attachments",
+    "项目/二哥/PaiCLI",
+    "ai 工具/Skills/ai-project-docs/references/task.md",
+    "ai 工具/Skills/ai-project-docs/SKILL.md",
+    "ai 工具/Skills/ai-project-docs/references/development.md",
+    "ai 工具/Skills/ai-project-docs/references/architecture.md",
+    "ai 工具/Skills/ai-project-docs/references/database.md",
+    "ai 工具/Skills/ai-project-docs/references/business.md",
     "数据库/attachments/Pasted image 20260912154334.png",
     "中间件/消息队列/RocketMQ.md",
     "日记/2026-9/2026-09-12-星期六.md",
@@ -199,28 +219,6 @@
     "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/README.md",
     "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog",
     "ai 工具/Skills/chatlog-to-blog.skill",
-    "README.md",
-    "面试/简历/2026/9/7.pdf",
-    "中间件/消息队列",
-    "面试/简历/2026/9/9.pdf",
-    "面试/简历/2026/9/15981160633_雷博文_后端开发(复制).pdf",
-    "ai 工具/AI写项目提示词/Agent 写项目提示词.md",
-    "ai 工具/Skills/ai-project-docs/SKILL.md",
-    "ai 工具/提示词.md",
-    "ai 工具/Skills/ai-project-docs/references/task.md",
-    "ai 工具/AI写项目提示词/生成 database.md 的提示词.md",
-    "ai 工具/Skills/ai-project-docs/references/development.md",
-    "ai 工具/Skills/ai-project-docs/references/database.md",
-    "ai 工具/Skills/ai-project-docs/references/business.md",
-    "ai 工具/Skills/ai-project-docs/references/architecture.md",
-    "ai 工具/Skills/ai-project-docs/references",
-    "ai 工具/Skills/ai-project-docs",
-    "ai 工具/AI写项目提示词/生成 architecture.md 的提示词.md",
-    "ai 工具/AI写项目提示词/生成 development.md 的提示词.md",
-    "ai 工具/AI写项目提示词/生成 business.md 的提示词.md",
-    "ai 工具/Skills/interview-translator/SKILL.md",
-    "ai 工具/Skills/interview-translator/project-interview-agent - SKILL.md",
-    "ai 工具/Java Interviewer System Prompt.md",
     "项目/小傅哥/业务项目/AI Agent 脚手架/attachments/Pasted image 20260718190744.png",
     "项目/小傅哥/业务项目/AI Agent 脚手架/attachments/Pasted image 20260718190659.png",
     "项目/小傅哥/业务项目/AI Agent 脚手架/attachments/Pasted image 20260718190519.png",
@@ -228,7 +226,6 @@
     "软实力/人生经历/attachments/58de12fb72ba2ffd036b47768bba40c8_720.jpg",
     "软实力/人生经历/attachments/237e8d9fe5c15e5aeaf4c38cc531ed2e_720.jpg",
     "软实力/人生经历/attachments/Pasted image 20260601152844.png",
-    "软实力/人生经历/attachments/Pasted image 20260601115745.png",
-    "软实力/人生经历/attachments/Pasted image 20260513191930.png"
+    "软实力/人生经历/attachments/Pasted image 20260601115745.png"
   ]
 }
