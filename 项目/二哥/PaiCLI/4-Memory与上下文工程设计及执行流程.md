@@ -27,17 +27,17 @@ flowchart LR
 
 ### 主要类的职责
 
-| 类 | 职责 |
-| --- | --- |
-| `Memory` | 统一定义存储、按 ID 获取、搜索、删除、清空和统计接口。 |
-| `MemoryEntry` | 表示一条记忆，包含 ID、内容、类型、时间、元数据和估算 Token 数。类型有 `CONVERSATION`、`FACT`、`SUMMARY`、`TOOL_RESULT`。 |
-| `ConversationMemory` | 用有序 Map 保存当前会话条目，统计占用并在超出容量时淘汰最旧条目。 |
-| `LongTermMemory` | 保存事实等长期条目，按完全相同的内容去重，并在读写时与磁盘 JSON 文件同步。 |
-| `MemoryQueryTokenizer` | 使用 Jieba 对中文查询分词，过滤单字和纯标点；英文保留完整单词。 |
-| `MemoryRetriever` | 从长、短期记忆中做关键词匹配，按相关度排序，并在指定预算内拼接“相关记忆”文本。 |
-| `TokenBudget` | 估算消息 Token 数、判断短期记忆是否需要压缩，并累计模型调用用量。 |
-| `ContextCompressor` | 将较早条目分片生成摘要，必要时合并摘要；也使用模型从对话中提取关键事实。 |
-| `MemoryManager` | 把上述组件组合起来，向 Agent 提供简单的记忆接口。 |
+| 类                      | 职责                                                                                      |
+| ---------------------- | --------------------------------------------------------------------------------------- |
+| `Memory`               | 统一定义存储、按 ID 获取、搜索、删除、清空和统计接口。                                                           |
+| `MemoryEntry`          | 表示一条记忆，包含 ID、内容、类型、时间、元数据和估算 Token 数。类型有 `CONVERSATION`、`FACT`、`SUMMARY`、`TOOL_RESULT`。 |
+| `ConversationMemory`   | 用有序 Map 保存当前会话条目，统计占用并在超出容量时淘汰最旧条目。                                                     |
+| `LongTermMemory`       | 保存事实等长期条目，按完全相同的内容去重，并在读写时与磁盘 JSON 文件同步。                                                |
+| `MemoryQueryTokenizer` | 使用 Jieba 对中文查询分词，过滤单字和纯标点；英文保留完整单词。                                                     |
+| `MemoryRetriever`      | 从长、短期记忆中做关键词匹配，按相关度排序，并在指定预算内拼接“相关记忆”文本。                                                |
+| `TokenBudget`          | 估算消息 Token 数、判断短期记忆是否需要压缩，并累计模型调用用量。                                                    |
+| `ContextCompressor`    | 将较早条目分片生成摘要，必要时合并摘要；也使用模型从对话中提取关键事实。                                                    |
+| `MemoryManager`        | 把上述组件组合起来，向 Agent 提供简单的记忆接口。                                                            |
 
 ## 二、实现逻辑
 

@@ -11,12 +11,14 @@
             "id": "f1fbaa0a717a3761",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "面试/简历/2026/10/7.pdf"
+                "file": "面试/面试准备.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "7"
+              "icon": "lucide-file",
+              "title": "面试准备"
             }
           }
         ]
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/简历/2026/10/7.pdf",
+                "file": "面试/面试准备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,11 +182,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fafdddb579d08574",
+  "active": "f1fbaa0a717a3761",
   "lastOpenFiles": [
-    "面试/简历/2026/10/5.pdf",
-    "面试/简历/2026/10/7.pdf",
+    "面试/面经.md",
+    "软实力/人生经历/人生经历与教训.md",
     "项目/二哥/PaiCLI/总结.md",
+    "项目/二哥/PaiCLI/response-format-explained.md",
+    "项目/二哥/PaiCLI/10-mcp-server-architecture.md",
+    "项目/二哥/PaiCLI/9-web-search-and-fetch.md",
+    "项目/二哥/PaiCLI/8-concurrency-design.md",
+    "项目/二哥/PaiCLI/4-Memory与上下文工程设计及执行流程.md",
+    "面试/简历/2026/10/7.pdf",
+    "面试/简历/2026/10/5.pdf",
     "面试/简历/2026/10",
     "项目/二哥/PaiCLI/rag-codebase-retrieval.md",
     "ai 工具/优化.md",
@@ -193,7 +202,6 @@
     "ai 工具/Java Interviewer System Prompt.md",
     "项目/二哥/PaiCLI/ReAct-example.md",
     "项目/二哥/PaiCLI/plan-mode.md",
-    "项目/二哥/PaiCLI/response-format-explained.md",
     "项目/二哥/技术派学习总结",
     "项目/二哥/技术派学习总结/技术派学习总结.md",
     "数据库/MySQL 查缺补漏.md",
@@ -210,13 +218,8 @@
     "ai 工具/Skills/ai-project-docs/references/business.md",
     "数据库/attachments/Pasted image 20260912154334.png",
     "中间件/消息队列/RocketMQ.md",
-    "日记/2026-9/2026-09-12-星期六.md",
     "日记/2026-9",
-    "项目/小傅哥/业务项目/AI Agent 脚手架/NettySocketServer-通信方案总结.md",
-    "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/templates/analysis-template.md",
     "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/templates",
-    "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/SKILL.md",
-    "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog/README.md",
     "ai 工具/Skills/chatlog-to-blog.skill/chatlog-to-blog",
     "ai 工具/Skills/chatlog-to-blog.skill",
     "项目/小傅哥/业务项目/AI Agent 脚手架/attachments/Pasted image 20260718190744.png",
